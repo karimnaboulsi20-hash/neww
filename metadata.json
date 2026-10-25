@@ -1,0 +1,6 @@
+{
+  "name": "Viral Pack Pro",
+  "description": "Más de 250.000 Videos Virales Sin Rostro — Listos Para Publicar en Tus Redes Hoy Mismo. El pack más grande de videos virales organizados por nicho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
